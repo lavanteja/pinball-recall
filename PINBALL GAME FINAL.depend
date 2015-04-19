@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429441705 source:c:\users\sushmithasree\onedrive\week5\pinball game final\game code final.cpp
+	<simplecpp>
+	<iostream>
+	<fstream>
+
